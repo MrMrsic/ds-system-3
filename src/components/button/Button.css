@@ -1,0 +1,13 @@
+.button {
+  background-color: #fff;
+  padding: 4px 8px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+.button.primary {
+  color: purple;
+}
+.button.secondary {
+  color: #ccc;
+  border: 1px solid #bbb;
+}
